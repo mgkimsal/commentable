@@ -1,6 +1,6 @@
 {
-    "name": "artisanry/commentable",
-    "description": "Commentable Polymorphic Eloquent Models for for Laravel 5",
+    "name": "coliving/commentable",
+    "description": "Commentable Polymorphic Eloquent Models for for Laravel 5. This is fork from artisanry/commentable as it's abandoned",
     "keywords": [
         "laravel",
         "framework",
@@ -9,9 +9,9 @@
     ],
     "license": "MPL-2.0",
     "authors": [{
-        "name": "Brian Faust",
-        "email": "hello@basecode.sh",
-        "homepage": "https://basecode.sh"
+        "name": "Dzung Nguyen",
+        "email": "dungnh@gmail.com",
+        "homepage": "https://coliving.com"
     }],
     "require": {
         "php": "^7.2",
