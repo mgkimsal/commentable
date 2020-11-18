@@ -1,6 +1,6 @@
 {
     "name": "coliving/commentable",
-    "description": "Commentable Polymorphic Eloquent Models for for Laravel 5. This is fork from artisanry/commentable as it's abandoned",
+    "description": "Commentable Polymorphic Eloquent Models for for Laravel. This is fork from artisanry/commentable as it's abandoned",
     "keywords": [
         "laravel",
         "framework",
@@ -15,8 +15,8 @@
     }],
     "require": {
         "php": "^7.2",
-        "illuminate/support": "^5.8|^6.0|^7.0",
-        "illuminate/database": "^5.8|^6.0|^7.0",
+        "illuminate/support": "^5.8|^6.0|^7.0|^8.0",
+        "illuminate/database": "^5.8|^6.0|^7.0|^8.0",
         "kalnoy/nestedset": "^5.0"
     },
     "require-dev": {
